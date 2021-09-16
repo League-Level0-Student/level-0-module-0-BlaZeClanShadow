@@ -24,7 +24,7 @@ public class RobotSquare {
     	// COUNT. Create an int variable that will count how many sides of the square we have drawn.
     	//        The start value will be zero because no sides have yet been drawn. Use this code:
 		       int count = 0;    
-    	
+		       while ( count < 4 ) {
 
         // DRAW.  Draw a line. Use this command:
     		       rob.move(200);    
@@ -45,10 +45,10 @@ public class RobotSquare {
     	//        so it is between the curly braces like the example below. 
     	//        The code in the loop will now repeat 4 times to draw a square.
     	
-    	     while ( count < 4 ) { 
-    	             DRAW
-    	             TURN
-    	           INCREASE COUNT
+    	      
+    	            
+    	             
+    	          
     	    }
    
     	
@@ -56,5 +56,5 @@ public class RobotSquare {
     	// Run the program again. Did your Robot draw a square?
 
 
-    
+    }   
 }

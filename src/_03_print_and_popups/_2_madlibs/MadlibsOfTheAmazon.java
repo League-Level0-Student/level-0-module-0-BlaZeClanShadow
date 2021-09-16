@@ -36,4 +36,9 @@ public class MadlibsOfTheAmazon {
 		// If you want to write your own Madlib story, just change the story variable and ask the player different questions.
 
 	}
+
+	private static void showMessageDialog(String prompt) {
+		// TODO Auto-generated method stub
+		
+	}
 }
